@@ -1,4 +1,4 @@
-# 🧙 The Chad Wizard — $CHADWIZ
+# The Chad Wizard — $CHADWIZ
 
 > *He does not chase pumps. He engineers inevitability.*
 
@@ -83,12 +83,6 @@ README.md         — You are here
 |Ascension Imminent   |He doesn’t predict the pump. He predates it.               |
 |Contingency Activated|His backup plan has a backup plan. He bought more.         |
 |Inevitable           |Not a destination. Just Tuesday.                           |
-
------
-
-## Disclaimer
-
-Not financial advice. Just prophecy.
 
 -----
 
